@@ -3,5 +3,6 @@
 void main()
 {
  printf("hai");
- printf("mee mamaa raa");
+ printf("hai every one");
+ 
  }
