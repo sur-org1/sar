@@ -3,4 +3,5 @@
 void main()
 {
  printf("hai");
+ printf("mee mamaa raa");
  }
